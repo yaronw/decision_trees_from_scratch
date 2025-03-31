@@ -1,0 +1,7 @@
+abalone_dataset_file: data/abalone.data
+car_evaluation_dataset_file: data/car.data
+segmentation_dataset_file: data/segmentation.data
+computer_hardware_dataset_file: data/machine.data
+forestfires_dataset_file: data/forestfires.data
+red_wine_quality_dataset_file: data/winequality-red.csv
+white_wine_quality_dataset_file: data/winequality-white.csv
